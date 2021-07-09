@@ -10,7 +10,7 @@ import(MASS)
 import(Rcpp)
 importFrom(plyr, ddply)
 importFrom(reshape, melt)
-import(rgl)
+#import(rgl)
 importFrom(car, scatter3d)
 import(scales)
 importFrom("stats", "aggregate", "kruskal.test", "prcomp", "predict",
